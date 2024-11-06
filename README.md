@@ -14,7 +14,7 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés :
 ## Installation
 1. **Clonez le dépôt sur votre machine :**
  ```bash
- git clone https://github.com/ton_utilisateur/ton_repertoire.git
+ git clone https://github.com/AyrtonFlam/Eonix_PHP.git
  cd ton_repertoire
  ```
 2. **Installez les dépendances avec Composer :**
